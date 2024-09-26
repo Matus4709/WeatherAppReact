@@ -1,3 +1,9 @@
+
+![Zrzut ekranu 2024-09-26 112831](https://github.com/user-attachments/assets/0984bff5-12e4-4177-9506-70d2e7e2e32b)
+![Zrzut ekranu 2024-09-26 112816](https://github.com/user-attachments/assets/73e363e1-f944-40dd-a44a-ede35a627454)
+App can get your geoloaction by button or u can check weather from input.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
